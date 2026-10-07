@@ -278,5 +278,5 @@ Propriétaire - Tous droits réservés
 
 ## Support
 
-Pour le support technique, contactez l'équipe de développement.
+Pour le support technique.
 
